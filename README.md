@@ -124,11 +124,6 @@ Pada file `tugas.js`, terdapat beberapa fungsi yang diuji menggunakan model peng
 - Uji fungsi **Loop Testing** dengan menjalankan fungsi yang mencetak angka 1 hingga 10.
 - Uji fungsi **Basic Path Testing** dengan memasukkan angka positif dan non-positif.
 
-## Dokumentasi
-Untuk dokumentasi lengkap tugas ini, Anda dapat mengunduh file **Word** yang berisi penjelasan lebih rinci mengenai tugas ini melalui tautan berikut:
-
-- [Download Dokumentasi Tugas](docs/Tugas_White_Box_Testing_Complete_Full.docx)
-
 ## Kontribusi
 Jika Anda ingin berkontribusi pada repository ini, silakan buat fork dan kirim pull request. Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan.
 
