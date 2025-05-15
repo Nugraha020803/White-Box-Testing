@@ -8,11 +8,16 @@
 1. **Session 1**: Definisi dan konsep
 2. **Session 2**: Model White Box Testing
 
-## Disusun Oleh:
-1. **Arya Nugraha**
-   - NIM: 20221310064
-2. **Denita Alhamdina Putri Arisandi**
-   - NIM: 20221310013
+**Disusun Oleh:**  
+- Arya Nugraha  
+- NIM: 20221310064  
+- Denita Alhamdina Putri Arisandi  
+- NIM: 20221310013
+- Kelompok SQ
+- Sri purnama Royani putri
+- NIM: 20211310066
+- Melvin Chairul Azfa
+- NIM: 20211310019
 
 ## Deskripsi
 Tugas ini bertujuan untuk memahami dan mengimplementasikan pengujian **White Box Testing** menggunakan JavaScript. **White Box Testing** adalah metode pengujian perangkat lunak yang melibatkan pemeriksaan struktur internal kode program. Pengujian ini mengharuskan penguji untuk memahami alur logika dalam kode yang diuji, serta bagaimana kode tersebut menangani berbagai kondisi dan perulangan.
